@@ -1,4 +1,4 @@
-This folder contains the data files used in this study:
+This repository contains the data and code for the paper Gao, Jin, Ke and Moryoussef (2025) *A Comparison of DeepSeek and Other LLMs*. 
 
 - **CitaStat.csv**: Dataset for **citation classification**, including labeled citation instances used to classify different types of citations.
 - **MADStats_sample_AI.csv** and **MADStats_sample_Edited.csv**: Datasets for **authorship classification**, containing abstracts written by human authors and abstracts generated using AI.
